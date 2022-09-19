@@ -1,0 +1,21 @@
+/* MAIN STYLING */
+
+#payrollTable {
+  display: none;
+  animation: fadeIn 350ms ease;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  margin: 0;
+  -webkit-appearance: none;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}

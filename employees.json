@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "firstName": "Angelina",
+    "lastName": "Jolie",
+    "hourlyWage": 14.5
+  },
+  {
+    "id": "2",
+    "firstName": "Brad",
+    "lastName": "Pitt",
+    "hourlyWage": 15.5
+  },
+  {
+    "id": "3",
+    "firstName": "Sylvester",
+    "lastName": "Stallone",
+    "hourlyWage": 17.5
+  },
+  {
+    "id": "4",
+    "firstName": "Sean",
+    "lastName": "Penn",
+    "hourlyWage": 13.5
+  },
+  {
+    "id": "5",
+    "firstName": "Sean",
+    "lastName": "Connery",
+    "hourlyWage": 12.5
+  }
+]
